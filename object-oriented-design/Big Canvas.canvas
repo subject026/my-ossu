@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Design In the Software Process","id":"e1b662a7c3bae207","x":-400,"y":-360,"width":540,"height":80},
+		{"type":"file","file":"1 Design In The Software Process/Expressing Requirements With User Stories.md","id":"7635a7e0b739eb11","x":-59,"y":-46,"width":700,"height":520},
+		{"type":"file","file":"1 Design In The Software Process/Categories of Objects in Design.md","id":"b4b64aae4677871f","x":-59,"y":680,"width":700,"height":560},
+		{"type":"file","file":"1 Design In The Software Process/Design For Quality Attributes.md","id":"1537e7c051e687cb","x":-840,"y":1160,"width":600,"height":480},
+		{"type":"file","file":"1 Design In The Software Process/Software Requirements, Conceptual and Technical Designs.md","id":"6a8d2f433d176ff3","x":-1540,"y":-226,"width":700,"height":880},
+		{"type":"file","file":"1 Design In The Software Process/Record Organise and Refine Components.md","id":"ac3b9559a16da3fa","x":-1600,"y":2000,"width":600,"height":800},
+		{"type":"file","file":"2 week 2/1- Creating Models in Design.md","id":"e2990a5fb35e9b95","x":-2160,"y":2000,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"dda7c6c27c2dd152","fromNode":"e1b662a7c3bae207","fromSide":"bottom","toNode":"6a8d2f433d176ff3","toSide":"top"},
+		{"id":"7b2132490e0795ed","fromNode":"6a8d2f433d176ff3","fromSide":"right","toNode":"7635a7e0b739eb11","toSide":"left"},
+		{"id":"bd2afb1689705d1f","fromNode":"6a8d2f433d176ff3","fromSide":"right","toNode":"b4b64aae4677871f","toSide":"left"},
+		{"id":"a318b976584edef7","fromNode":"6a8d2f433d176ff3","fromSide":"right","toNode":"1537e7c051e687cb","toSide":"top"}
+	]
+}

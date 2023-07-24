@@ -1,0 +1,65 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="261px" height="221px" viewBox="-0.5 -0.5 261 221" content="&lt;mxfile&gt;&lt;diagram id=&quot;SdqXncrNIEBVN0ZD1iOU&quot; name=&quot;Page-1&quot;&gt;7VY9k5swEP01lDeDwDaX0nBfTVLERWoBC2giISLkA+fXZ2UJDDa+r5mbSXGN0L5dSW/fwgovTET/qGhTfZc5cC/w894L77wg+BaFOBrgYIGIEAuUiuUWmgA79hcc6Dt0z3JoZ4FaSq5ZMwczWdeQ6RlGlZLdPKyQfH5qQ0u4AHYZ5ZfoL5bryqK3a/+EPwErq+Fk4juPoEOwA9qK5rKbQOG9FyZKSm1nok+AG+0GXey6hyvekZiCWr9lQWQXPFO+d7k5XvowJKvkvs7BxPteGHcV07BraGa8HVYXsUoLjhbBafsbdFY5w+0NSkN/lR8Zs8a3BaQArQ4Y4haMJXdvSrBydnfSPdg4rJpoPipMXa3Lce+THDhxiiyrs1lQZ8PxhLiZabT5szcFiwVVJau9cIveVdPj6I+jkWOIw1npnsfd0glAhZG0TlvzSDhtW9zgBxUwBCPp9HwDxJpzrFKG4/DtDEeT6yxeyckmYc0bDgU6t6t3JGYBtUD9Tel8Jruf0DayblnKONMMO8t/wG1JqK8af5xdIjmnqVRUS/VigV9T/qw9mvbG8GrYclYiyTstzYdLnWVZxhKjCn5s9AUz7SYuZK3dxUYCZz9QwbhpdE/An8Hs+snNdX3WXKPL5kqiheZK1u9vrmierrWjb/JvEN7/Aw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="260" height="220" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 1.22 1.69 L 259.73 1.28 L 258.89 219.38 L -1.1 220.68" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <path d="M 0 0 C 51.88 -0.18 103 -2.46 260 0 M 0 0 C 101.68 -2.33 203.06 -1.72 260 0 M 260 0 C 261.23 49.47 259.51 95.87 260 220 M 260 0 C 260.63 59.53 259.9 120.87 260 220 M 260 220 C 185.84 220.32 108.86 221.04 0 220 M 260 220 C 177.12 219.77 94.41 220.02 0 220 M 0 220 C 0.41 154.32 1.82 88.07 0 0 M 0 220 C -1.92 169.19 -1.64 118.68 0 0" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="40" y="30" width="170" height="150" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 39.7 29.46 L 209.62 29.57 L 211.06 180.85 L 39.31 178.7" fill="rgb(255, 255, 255)" stroke="none" pointer-events="all"/>
+        <path d="M 40 30 C 74.93 33.25 108.95 30.19 210 30 M 40 30 C 94.98 28.69 149.22 30.23 210 30 M 210 30 C 209.07 86.64 212.22 147.24 210 180 M 210 30 C 209.2 74.15 209.46 120.38 210 180 M 210 180 C 152.34 178.56 96.55 181.97 40 180 M 210 180 C 163.43 180.99 115.3 180.43 40 180 M 40 180 C 40.48 126.41 41.58 74.32 40 30 M 40 180 C 41 138.15 41.16 96.73 40 30" fill="none" stroke="rgb(0, 0, 0)" stroke-linejoin="round" stroke-linecap="round" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 172px; height: 150px; padding-top: 30px; margin-left: 40px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left; width: 170px; height: 150px; overflow: hidden;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; width: 100%; height: 100%; white-space: nowrap;">
+                                <p style="margin: 4px 0px 0px;">
+                                    <b>
+                                        Class Name
+                                    </b>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <b>
+                                        <br/>
+                                    </b>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <b>
+                                        Responsibilities
+                                    </b>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <br/>
+                                </p>
+                                <hr size="1"/>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <b>
+                                        <br/>
+                                    </b>
+                                </p>
+                                <p style="margin:0px;margin-left:4px;">
+                                    <b>
+                                        Collaborators
+                                    </b>
+                                    <br/>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="40" y="42" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px">
+                    Class Name...
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
