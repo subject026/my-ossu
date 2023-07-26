@@ -92,4 +92,5 @@ ThemeColor -> String
 ; examples
 
 ; template for one argument function operating on data of this type
+
 ```

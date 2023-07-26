@@ -33,3 +33,10 @@ fun nummer(a: int) =
     if a = 1 then "one" else "noooo";
 
 nummer(1);
+
+(* create a tuple *)
+val nice_pair = (1,2);
+
+(* access values *)
+#1 nice_pair;
+#2 nice_pair;
